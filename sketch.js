@@ -6,7 +6,7 @@ let epicycles;
 let ready = false;
 let points = [];
 function preload() {
-  img = loadImage('../assets/bf.jpg');
+  img = loadImage('./assets/bf.jpg');
 }
 
 function setup() {
